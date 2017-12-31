@@ -1,0 +1,12 @@
+site_title: TDev.org
+baseurl: ""
+permalink: /:year/:title/
+github_username:  tditiecher
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+      author: Taco
